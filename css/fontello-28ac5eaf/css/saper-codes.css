@@ -1,0 +1,8 @@
+
+.icon-flag-filled:before { content: '\e801'; } /* '' */
+.icon-resize-vertical:before { content: '\e802'; } /* '' */
+.icon-resize-horizontal:before { content: '\e803'; } /* '' */
+.icon-cog-1:before { content: '\e804'; } /* '' */
+.icon-spin3:before { content: '\e832'; } /* '' */
+.icon-flag-empty:before { content: '\f11d'; } /* '' */
+.icon-bomb:before { content: '\f1e2'; } /* '' */
